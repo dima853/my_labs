@@ -9,7 +9,7 @@ There are vulnerabilities in existing message ID/memory caching systems.:
 
 ### **My solution is:**
 **Secure ID cache**, which:
-- Uses your **DRS-Generator** to allocate ID
+- Uses my **DRS-Generator** to allocate ID
 - Guarantees **minimal predictability**
 - Optimized for **high-load systems**
 - Protected from **attacks in time** and **space**
